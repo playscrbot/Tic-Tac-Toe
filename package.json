@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
+  "homepage": "https://playscrbot.github.io/Tic-Tac-Toe",
   "scripts": {
     "start": "npm run dev",
     "dev": "concurrently \"vite\" \"node backend/index.cjs\"",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "joyboysk",
@@ -19,7 +22,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "typescript": "^5.2.2",
-    "vite": "^5.0.0"
+    "vite": "^5.0.0",
+    "gh-pages": "^4.0.0"
   },
   "main": "vite.config.js",
   "dependencies": {
