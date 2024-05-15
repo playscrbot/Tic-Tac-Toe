@@ -21,7 +21,7 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
 
-<img src="public/Import.jpg" width="300" height="300" style="float:left" />
+<img src="public/Import.jpg" width="300" height="200" style="float:left" />
 
 - Choose **"Import from GitHub"**.
 
@@ -136,6 +136,6 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 ## License
 This project is open-sourced under the MIT license. See the LICENSE file for details.
 
-### Made for Individuals who want to start learning JavaScript game development.
+### Made for Individuals who want to start JavaScript game development.
 
 Have fun playing with AI 😁🌈
