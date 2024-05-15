@@ -11,7 +11,7 @@ Replit is an online IDE that allows you to run and edit code from a browser. Her
 
 **Step 1: Create a Replit Account**
 
-<img src="public/Create_account.jpg" width="300" height="200" style="float:left" />
+<img src="public/Create_account.jpg" width="300" height="300" style="float:left" />
 
 If you don't already have a Replit account, go to Replit.com and sign up for a free account.
 
@@ -25,7 +25,7 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 - Choose **"Import from GitHub"**.
 
-<img src="public/Github.jpg" width="300" height="400" style="float:left" />
+<img src="public/Github.jpg" width="300" height="300" style="float:left" />
 
 - Paste the URL of this GitHub repository: `https://github.com/playscrbot/Tic-Tac-Toe`
 - Click **"Import from GitHub"** again to create your Repl.
