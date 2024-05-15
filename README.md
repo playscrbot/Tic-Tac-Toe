@@ -3,39 +3,23 @@
 
 Welcome to my React Society!
 
-This project is a modern take on the classic game Tic Tac Toe, featuring a real gameplay experience with an AI powered by Socket.IO and a sleek canvas-based UI.
+This project is a modern take on the classic game Tic Tac Toe, featuring a real gameplay experience with AI powered by Socket.IO and a sleek canvas-based UI.
 
-### Getting Started
-Clone the repository and install the dependencies:
-
-```bash
-git clone https://your-repository-url.git
-cd your-repository-name
-npm install react, socket.io, socket.io-client
-```
-
-Start the server
-```bash
-node backend/index.cjs
-```
-
-Run the React App
-```bash
-npm run dev
-```
-
-## Running the Project on Replit
+## Getting Started
 
 Replit is an online IDE that allows you to run and edit code from a browser. Here's how you can get this project up and running on Replit:
 
 **Step 1: Create a Replit Account**
-
+<img src="public/Create_account.jpg" />
 If you don't already have a Replit account, go to Replit.com and sign up for a free account.
 
 **Step 2: Start a New Repl**
+<img src="public/Create_repl.jpg" />
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
+<img src="public/Import.jpg" />
 - Choose **"Import from GitHub"**.
+<img src="public/Github.jpg" />
 - Paste the URL of this GitHub repository: `https://github.com/playscrbot/Tic-Tac-Toe`
 - Click **"Import from GitHub"** again to create your Repl.
 
@@ -57,6 +41,26 @@ Now that your application is running, you can play Tic Tac Toe directly in your 
 
 **Support:**
 If you encounter any issues or have questions about running the project, feel free to raise an issue in the GitHub repository or reach out to the community on Replit.
+
+
+### Install dependencies
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://your-repository-url.git
+cd your-repository-name
+npm install react, socket.io, socket.io-client
+```
+
+Start the server
+```bash
+node backend/index.cjs
+```
+
+Run the React App
+```bash
+npm run dev
+```
 
 
 ## Features
