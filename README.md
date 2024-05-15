@@ -21,7 +21,7 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
 
-<img src="public/Import.jpg" width="300" height="200" style="float:left" />
+<img src="public/Import.jpg" width="300" height="400" style="float:left" />
 
 - Choose **"Import from GitHub"**.
 
