@@ -44,6 +44,10 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 ## Playing the Game
 
+<video width="300" controls>
+  <source src="public/Gameplay.mp4" type="video/mp4">
+</video>
+
 Now that your application is running, you can play Tic Tac Toe directly in your browser. Enjoy the game!
 
 **Support:**
