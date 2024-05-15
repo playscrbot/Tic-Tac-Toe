@@ -11,21 +11,21 @@ Replit is an online IDE that allows you to run and edit code from a browser. Her
 
 **Step 1: Create a Replit Account**
 
-<img src="public/Create_account.jpg" width="500" height="600" style="float:left" />
+<img src="public/Create_account.jpg" width="100" height="200" style="float:left" />
 
 If you don't already have a Replit account, go to Replit.com and sign up for a free account.
 
 **Step 2: Start a New Repl**
 
-<img src="public/Create_repl.jpg" width="700" height="500" style="float:left" />
+<img src="public/Create_repl.jpg" width="300" height="100" style="float:left" />
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
 
-<img src="public/Import.jpg" width="500" height="500" style="float:left" />
+<img src="public/Import.jpg" width="100" height="100" style="float:left" />
 
 - Choose **"Import from GitHub"**.
 
-<img src="public/Github.jpg" width="500" height="600" style="float:left" />
+<img src="public/Github.jpg" width="100" height="200" style="float:left" />
 
 - Paste the URL of this GitHub repository: `https://github.com/playscrbot/Tic-Tac-Toe`
 - Click **"Import from GitHub"** again to create your Repl.
@@ -38,7 +38,7 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 **Step 4: Playing the Game**
 
-<img src="public/Gameplay.gif" width="50%" height="50%" />
+<img src="public/Gameplay.gif" width="100%" height="100%" />
 
 - After clicking **"Run"**, Replit will start the server and the React application should compile.
 - A new window labeled **"Webview"** will appear showing your live game.
@@ -136,6 +136,6 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 ## License
 This project is open-sourced under the MIT license. See the LICENSE file for details.
 
-### Made for Individuals who want to start learning JavaScript game development. This is a hybrid approach of React and Vanilla JS Canvas Manipulation which runs your game in a virtual dom. You can take the canvas code and write as a normal Vanilla js code too.
+### Made for Individuals who want to start learning JavaScript game development.
 
 Have fun playing with AI 😁🌈
