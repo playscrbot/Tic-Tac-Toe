@@ -36,17 +36,15 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 - Once the import is complete, click on the **"Run"** button at the top of the page to start the application.
 
-**Step 4: View the Application**
+**Step 4: Playing the Game**
+
+<video src="public/Gameplay.mp4" width=180 />
 
 - After clicking **"Run"**, Replit will start the server and the React application should compile.
-- A new window labeled **"Output"** will appear showing your live application.
-- Click on the **"Open in a new tab"** button in the top right corner of the Output window to view your Tic Tac Toe game in full screen.
+- A new window labeled **"Webview"** will appear showing your live game.
+- Click on the **"Symbol"** next to replit dev url to play the game in full screen.
 
-## Playing the Game
-
-[![Gameplay](https://i.stack.imgur.com/Vp2cE.png)(https://github.com/playscrbot/Tic-Tac-Toe/blob/main/public/Gameplay.mp4?raw=true)]
-
-Now that your application is running, you can play Tic Tac Toe directly in your browser. Enjoy the game!
+Enjoy the game!
 
 **Support:**
 If you encounter any issues or have questions about running the project, feel free to raise an issue in the GitHub repository or reach out to the community on Replit.
