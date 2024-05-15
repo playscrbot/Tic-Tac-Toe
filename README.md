@@ -30,11 +30,11 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 - Paste the URL of this GitHub repository: `https://github.com/playscrbot/Tic-Tac-Toe`
 - Click **"Import from GitHub"** again to create your Repl.
 
-**Step 3: Configure the Run Button**
+**Step 3: Wait for few secs and click Run Button**
 
-- In the Replit workspace, click on the **"Shell"** tab next to the "Console".
-- Type `npm install` and press **Enter** to install all the necessary dependencies.
-- Once the installation is complete, click on the **"Run"** button at the top of the page to start the application.
+<img src="public/Run.jpg" />
+
+- Once the import is complete, click on the **"Run"** button at the top of the page to start the application.
 
 **Step 4: View the Application**
 
