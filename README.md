@@ -17,11 +17,11 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 **Step 2: Start a New Repl**
 
-<img src="public/Create_repl.jpg" width="500" height="550" style="float:left" />
+<img src="public/Create_repl.jpg" width="500" height="500" style="float:left" />
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
 
-<img src="public/Import.jpg" width="500" height="600" style="float:left" />
+<img src="public/Import.jpg" width="500" height="500" style="float:left" />
 
 - Choose **"Import from GitHub"**.
 
