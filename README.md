@@ -38,7 +38,7 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 **Step 4: Playing the Game**
 
-
+<img src="public/Gameplay.gif" width="50%" height="50%" />
 
 - After clicking **"Run"**, Replit will start the server and the React application should compile.
 - A new window labeled **"Webview"** will appear showing your live game.
