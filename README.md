@@ -10,7 +10,8 @@ This project is a modern take on the classic game Tic Tac Toe, featuring a real 
 Replit is an online IDE that allows you to run and edit code from a browser. Here's how you can get this project up and running on Replit:
 
 **Step 1: Create a Replit Account**
-<img src="public/Create_account.jpg" />
+<img src="public/Create_account.jpg" width="300" height="200" />
+
 If you don't already have a Replit account, go to Replit.com and sign up for a free account.
 
 **Step 2: Start a New Repl**
@@ -18,8 +19,11 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
 <img src="public/Import.jpg" />
+
 - Choose **"Import from GitHub"**.
+
 <img src="public/Github.jpg" />
+
 - Paste the URL of this GitHub repository: `https://github.com/playscrbot/Tic-Tac-Toe`
 - Click **"Import from GitHub"** again to create your Repl.
 
