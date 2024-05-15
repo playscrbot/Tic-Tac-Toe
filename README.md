@@ -39,13 +39,13 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 - Paste the URL of this GitHub repository: `https://github.com/playscrbot/Tic-Tac-Toe`
 - Click **"Import from GitHub"** again to create your Repl.
 
-Step 3: Configure the Run Button
+**Step 3: Configure the Run Button**
 
 - In the Replit workspace, click on the **"Shell"** tab next to the "Console".
 - Type `npm install` and press **Enter** to install all the necessary dependencies.
 - Once the installation is complete, click on the **"Run"** button at the top of the page to start the application.
 
-Step 4: View the Application
+**Step 4: View the Application**
 
 - After clicking **"Run"**, Replit will start the server and the React application should compile.
 - A new window labeled **"Output"** will appear showing your live application.
@@ -55,7 +55,7 @@ Step 4: View the Application
 
 Now that your application is running, you can play Tic Tac Toe directly in your browser. Enjoy the game!
 
-**Support**
+**Support:**
 If you encounter any issues or have questions about running the project, feel free to raise an issue in the GitHub repository or reach out to the community on Replit.
 
 
