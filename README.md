@@ -28,11 +28,11 @@ npm run dev
 
 Replit is an online IDE that allows you to run and edit code from a browser. Here's how you can get this project up and running on Replit:
 
-Step 1: Create a Replit Account
+**Step 1: Create a Replit Account**
 
 If you don't already have a Replit account, go to Replit.com and sign up for a free account.
 
-Step 2: Start a New Repl
+**Step 2: Start a New Repl**
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
 - Choose **"Import from GitHub"**.
@@ -55,8 +55,7 @@ Step 4: View the Application
 
 Now that your application is running, you can play Tic Tac Toe directly in your browser. Enjoy the game!
 
-Support
-
+**Support**
 If you encounter any issues or have questions about running the project, feel free to raise an issue in the GitHub repository or reach out to the community on Replit.
 
 
