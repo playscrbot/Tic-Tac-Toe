@@ -136,4 +136,6 @@ Contributions are welcome! Please feel free to submit a pull request or create a
 ## License
 This project is open-sourced under the MIT license. See the LICENSE file for details.
 
+### Made for Individuals who want to start learning JavaScript game development. This is a hybrid approach of React and Vanilla JS Canvas Manipulation which runs your game in a virtual dom. You can take the canvas code and write as a normal Vanilla js code too.
+
 Have fun playing with AI 😁🌈
