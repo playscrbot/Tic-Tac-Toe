@@ -55,9 +55,10 @@ Step 4: View the Application
 
 Now that your application is running, you can play Tic Tac Toe directly in your browser. Enjoy the game!
 
-### Support
+Support
 
 If you encounter any issues or have questions about running the project, feel free to raise an issue in the GitHub repository or reach out to the community on Replit.
+
 
 ## Features
   - **Server connection**: Enhance your online gameplay to the next level using Socket.io.
