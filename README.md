@@ -44,7 +44,7 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 ## Playing the Game
 
-![Gameplay](https://github.com/playscrbot/Tic-Tac-Toe/blob/main/public/Gameplay.mp4?raw=true)
+[![Gameplay](https://i.stack.imgur.com/Vp2cE.png)(https://github.com/playscrbot/Tic-Tac-Toe/blob/main/public/Gameplay.mp4?raw=true)]
 
 Now that your application is running, you can play Tic Tac Toe directly in your browser. Enjoy the game!
 
