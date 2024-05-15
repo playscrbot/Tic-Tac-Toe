@@ -17,7 +17,7 @@ If you don't already have a Replit account, go to Replit.com and sign up for a f
 
 **Step 2: Start a New Repl**
 
-<img src="public/Create_repl.jpg" width="400" height="500" style="float:left" />
+<img src="public/Create_repl.jpg" width="700" height="500" style="float:left" />
 
 - Once logged in, click the **"+"** button or go to the **Repls** tab and click **"New Repl"**.
 
