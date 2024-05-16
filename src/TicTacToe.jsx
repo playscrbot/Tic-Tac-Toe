@@ -12,7 +12,7 @@ const TicTacToe = () => {
   const aiPlayer = 'O';
 
   useEffect(() => {
-    const socket = io('https://952575c1-e41b-4977-9de2-51f525f357f9-00-3f8gwkw0dnok0.riker.replit.dev:3001');
+    const socket = io('https://playscrbot.github.io/Tic-Tac-Toe/');
 
     // Join the game
     socket.on('connect', () => {
