@@ -108,7 +108,7 @@ npm run dev
 
 **Hard**: Implements minimax algorithm with alpha-beta pruning for optimal moves.
 
-
+<img src="public/Socketio.jpeg" width="100%"/>
 
 # Backend Setup
 The backend is built with Express and Socket.IO to handle real-time player login and logout.
@@ -479,6 +479,8 @@ const minimax = (board, depth, isMaximizingPlayer) => {
 ```
 
 ### What is Minimax?
+
+<img src="public/minimax.jpeg" width="100%" />
 
 Minimax is a decision-making algorithm used in game theory and artificial intelligence to determine the optimal move for a player, assuming that the opponent is also playing optimally. It's particularly well-suited for turn-based games like Tic-Tac-Toe.
 
