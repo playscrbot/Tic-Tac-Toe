@@ -102,21 +102,23 @@ const Canvas = ({ board, boardSize, onSquareClick }) => {
   };
 
   const drawBoard = (ctx) => {
-    ctx.beginPath();
-    ctx.translate(0.5, 0.5);
-    ctx.lineWidth = 1;
-    ctx.strokeStyle = 'black';
+    if (board && board.length > 0) {
+      ctx.beginPath();
+      ctx.translate(0.5, 0.5);
+      ctx.lineWidth = 1;
+      ctx.strokeStyle = 'black';
 
-    for (let i = 1; i < boardSize; i++) {
-      ctx.moveTo(0, i * cellSize);
-      ctx.lineTo(300, i * cellSize);
-      ctx.moveTo(i * cellSize, 0);
-      ctx.lineTo(i * cellSize, 300);
+      for (let i = 1; i < boardSize; i++) {
+        ctx.moveTo(0, i * cellSize);
+        ctx.lineTo(300, i * cellSize);
+        ctx.moveTo(i * cellSize, 0);
+        ctx.lineTo(i * cellSize, 300);
+      }
+
+      ctx.stroke();
+      ctx.translate(-0.5, -0.5);
+      console.log(board, boardSize, board.length);
     }
-
-    ctx.stroke();
-    ctx.translate(-0.5, -0.5);
-    console.log(board, boardSize, board.length);
   };
 
   // Function to draw X and O
@@ -146,18 +148,20 @@ const Canvas = ({ board, boardSize, onSquareClick }) => {
   }
 
   const drawMoves = (ctx, board) => {
-    board.forEach((cell, index) => {
-      const row = Math.floor(index / boardSize);
-      const col = index % boardSize;
-      const x = col * cellSize;
-      const y = row * cellSize;
-      
-      if (cell === 'X') {
-        drawX(ctx, x, y);
-      } else if (cell === 'O') {
-        drawO(ctx, x, y);
-      }
-    });
+    if (Array.isArray(board) && board.length > 0) {
+      board.forEach((cell, index) => {
+        const row = Math.floor(index / boardSize);
+        const col = index % boardSize;
+        const x = col * cellSize;
+        const y = row * cellSize;
+        
+        if (cell === 'X') {
+          drawX(ctx, x, y);
+        } else if (cell === 'O') {
+          drawO(ctx, x, y);
+        }
+      });
+    }
   }
 
   // Function to check if the board is full considering every boardSize

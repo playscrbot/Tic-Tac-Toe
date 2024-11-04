@@ -1,7 +1,7 @@
 // App.jsx
 import React, { useState } from 'react';
 import { ClipLoader } from 'react-spinners';
-import TicTacToe from './TicTacToe';
+import Game from './Game';
 import './App.css';
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
           <ClipLoader color="#36d7b7" size={50} />
         </div>
       ) : (
-        <TicTacToe />
+        <Game />
       )}
     </>
   )
